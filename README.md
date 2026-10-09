@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto implementa un comparador de precios automatizado para productos de la categoría **Afeitado y depilación** en tres comercios electrónicos líderes en Colombia: **Farmatodo**, **Cruz Verde** y **Éxito**.
 
@@ -16,7 +16,7 @@ El sistema realiza web scraping de las ofertas disponibles, almacena la informac
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 ```text
 taller-1-mineria-datos/
@@ -34,7 +34,7 @@ taller-1-mineria-datos/
 
 ---
 
-## 🛠️ Instrucciones de Ejecución en GitHub Codespaces
+## Instrucciones de Ejecución en GitHub Codespaces
 
 ### 1. Instalación de Dependencias
 Abre la terminal en GitHub Codespaces y ejecuta:
@@ -72,7 +72,7 @@ quarto render taller_1.qmd --to html
 
 ---
 
-## 📊 Estructura de la Base de Datos (`comparador_precios.sqlite`)
+## Estructura de la Base de Datos (`comparador_precios.sqlite`)
 
 La base de datos relacional consta de 4 tablas interconectadas:
 1. `ejecuciones`: Almacena el historial de corridas del scraper, identificando fecha/hora en formato **ISO 8601** (zona horaria de Colombia `UTC-5`) y el modo de ejecución.
@@ -82,6 +82,6 @@ La base de datos relacional consta de 4 tablas interconectadas:
 
 ---
 
-## ✒️ Autor
-* **Estudiante:** Taller 1 - Minería de Datos
+## Autor
+* **Estudiante:** INTI ABRAHAM OLAYA QUINCHIA Taller 1 - Minería de Datos
 * **Universidad:** Universidad Nacional de Colombia
